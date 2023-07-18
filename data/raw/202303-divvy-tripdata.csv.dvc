@@ -1,0 +1,5 @@
+outs:
+- md5: 8630688a9596ecb3d1f8ced44ac68a1c
+  size: 52338215
+  hash: md5
+  path: 202303-divvy-tripdata.csv
