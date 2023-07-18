@@ -2,7 +2,7 @@
 Transjakarta Passenger Analysis
 
 ## Latar Belakang
-TransJakarta adalah sistem transportasi umum bus rapid transit (BRT) yang beroperasi di Jakarta, ibu kota Indonesia. Tujuan utama dari TransJakarta adalah untuk meningkatkan mobilitas penduduk Jakarta dengan menyediakan layanan transportasi yang cepat, nyaman, dan terjangkau.
+Pemerintah DKI Jakarta dan PT TransJakarta terus melakukan evaluasi dan perluasan jaringan TransJakarta guna meningkatkan konektivitas transportasi publik di Jakarta. Perubahan dan perbaikan terus dilakukan oleh pihak TransJakarta untuk mengatasi permasalahan dan meningkatkan kualitas layanan.
 
 ## Problem Statement
-Fokus analisis kali ini adalah performa trayek tertentu: Dengan menganalisis data jumlah penumpang berdasarkan "kode trayek" dan "trayek", maka dapat mengidentifikasi trayek yang memiliki performa baik atau buruk. Trayek dengan jumlah penumpang yang rendah mungkin membutuhkan evaluasi untuk menentukan penyebabnya, seperti rute yang tidak efisien, kurangnya aksesibilitas, atau persaingan dengan moda transportasi lain di area tersebut.
+Pada tahun 2021, transJakarta menghadapi sejumlah permasalahan berdasarkan trayek-trayek tertentu, seperti trayek dengan lalu lintas padat maupun trayek dengan tingkat penggunaan yang rendah, ditahun ini juga kota jakarta menjadi salah satu daerah dengan wabah covid tertinggi di Indonesia. Dengan dilakukannya PPKM maka jumlah penumpang di tahun 2021 naik turun dari bulan ke bulan. Sehingga masalah yang ingin diketahui yaitu mengetahui jumlah penumpang terbanyak pada suatu trayek dan bulan.
